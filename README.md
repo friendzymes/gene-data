@@ -1,15 +1,13 @@
-# Keoni literally put all iGEM and Freegenes Biobrick parts into this repo.
+# gene-data
 
-BBF10K prefixed files are freegene 10k gene project parts.
+Contains parts from multiple collections.  
+Initially sourced from Keoni Gandall's repo `freegenes`.[^1]
 
-BBa prefixed files are from iGEM.
+## Collections
 
-clone it like so:
+- BBF10K prefixed files are freegene 10k gene project parts.
+- BBa prefixed files are from iGEM.
 
-```
-git clone https://genepool.me/koeng/freegenes/
-```
+---
 
-If you want to dump your own genes fork this on genepool, add your files, and make a pull request.
-
-Technically doesn't need a license since it's data.
+[^1]: [archival snapshot](https://web.archive.org/web/20210508094629/https://genepool.me/koeng/freegenes/)
